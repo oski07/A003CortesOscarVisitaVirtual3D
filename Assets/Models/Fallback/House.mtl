@@ -1,0 +1,15 @@
+newmtl Wall
+Kd 0.8 0.8 0.8
+
+newmtl FloorWood
+Kd 0.8 0.8 0.8
+
+newmtl FloorTile
+Kd 0.8 0.8 0.8
+
+newmtl FloorHallway
+Kd 0.8 0.8 0.8
+
+newmtl Ceiling
+Kd 0.8 0.8 0.8
+
